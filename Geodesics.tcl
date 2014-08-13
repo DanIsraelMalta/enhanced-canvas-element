@@ -172,10 +172,6 @@ proc vincentyDirect {xi_lat xi_lon xi_range xi_bearing} {
    return [list $lat2 $lon2]
 }
 
-
-# Earth north and east radius at a given latitude
-# input is in radians, output is in meters
-
 # @param  {numeric} latitude [rad]
 # @return {numeric} north radius, assuming oblate spheroid [m]
 # @return {numeric} east radius, assuming oblate spheroid [m]
