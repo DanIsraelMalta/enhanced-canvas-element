@@ -1,4 +1,5 @@
 TCL-TK-various
 ==============
 
-Various TCL/TK functions
+* TCL scripts for geodesic calculations
+* An advanced TK canvas with zoom/pan capabilities and automatic screen<->world coordinate transformations.
